@@ -46,7 +46,7 @@ Update the database connection details in the Java code according to your local 
 **Connectivity:** JDBC
 
 ## Developed By
-Tejaswini J
-A Y Shamyuktha
-Shreeya K
-Vamshika
+Tejaswini J,
+A Y Shamyuktha,
+Shreeya K,
+Vamshika.
